@@ -43,7 +43,6 @@ Here at Busrapido.com we love hackable things! For this reasons we strongly enco
 
 ## Continuous Integration
 * [travis-ci-status](https://atom.io/packages/travis-ci-status)
-* [circle-ci](https://atom.io/packages/circle-ci)
 
 ## Utils
 * [auto-update-packages](https://atom.io/packages/auto-update-packages)
