@@ -1,7 +1,7 @@
 # Busrapido Atom Preferences 🚌
 > ⚛ Atom packages we love
 
-Atom is an open source text editor made by GitHub that lets you easily customize every aspect of it. The entire application is written in JavaScript, CSS, and HTML so hacking the core and writing packages is much more straight forward.
+Atom is an open source text editor made by GitHub that lets you easily customize every aspect of it. The entire application is written in JavaScript, CSS, and HTML so hacking the core and writing packages is much more straight forward.<br>
 Here at Busrapido.com we love hackable things! For this reasons we strongly encourage our devs to use [`Atom`](https://atom.io/) as their main text editor for our projects.
 
 ## Usage
