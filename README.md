@@ -14,6 +14,10 @@ Here at Busrapido.com we love hackable things! For this reasons we strongly enco
 * [minimap](https://github.com/atom-minimap/minimap)
   * [minimap-find-and-replace](https://github.com/atom-minimap/minimap-find-and-replace)
   * [minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected)
+  * [minimap-cursorline](https://atom.io/packages/minimap-cursorline)
+  * [minimap-git-diff](https://atom.io/packages/minimap-git-diff)
+  * [minimap-pigments](https://atom.io/packages/minimap-pigments)
+  * [minimap-linter](https://atom.io/packages/minimap-linter)
 
 ## Code Intelligence
 * [atom-ternjs](https://atom.io/packages/atom-ternjs)
