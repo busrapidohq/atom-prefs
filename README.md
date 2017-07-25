@@ -44,3 +44,4 @@ Here at Busrapido.com we love hackable things! For this reasons we strongly enco
 ## Utils
 * [auto-update-packages](https://atom.io/packages/auto-update-packages)
 * [sync-settings](https://atom.io/packages/sync-settings)
+* [config-import-export](https://atom.io/packages/config-import-export)
