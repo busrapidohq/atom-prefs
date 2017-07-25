@@ -5,7 +5,7 @@ Atom is an open source text editor made by GitHub that lets you easily customize
 Here at Busrapido.com we love hackable things! For this reasons we strongly encourage our devs to use [`Atom`](https://atom.io/) as their main text editor for our projects.
 
 ## Usage
-* Download [`Atom`](https://atom.io/)
+* Download [Atom](https://atom.io/)
 * Download [`atom-prefs.json`](https://raw.githubusercontent.com/busrapidohq/atom-prefs/master/atom-prefs.json)
 * Open Atom
 * Go to `Atom > Preferences > Install`
