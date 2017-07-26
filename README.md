@@ -8,7 +8,7 @@ Here at Busrapido.com we love hackable things! For this reasons we strongly enco
 * Download [Atom](https://atom.io/)
 * Download [`atom-prefs.json`](https://raw.githubusercontent.com/busrapidohq/atom-prefs/master/atom-prefs.json)
 * Open Atom
-* Go to `Atom > Preferences > Install`
+* Go to `Atom > Preferences > Install` or `File > Settings > Install`
 * Install `config-import-export`
 * Go to `Packages > Config Import Export > Import`
 * Import `atom-prefs.json`
