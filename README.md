@@ -30,6 +30,7 @@ Here at Busrapido.com we love hackable things! For this reasons we strongly enco
   * [minimap-git-diff](https://atom.io/packages/minimap-git-diff)
   * [minimap-pigments](https://atom.io/packages/minimap-pigments)
   * [minimap-linter](https://atom.io/packages/minimap-linter)
+* [tree-view-git-status](https://atom.io/packages/tree-view-git-status)
 
 ### Code Intelligence
 * [atom-ternjs](https://atom.io/packages/atom-ternjs)
