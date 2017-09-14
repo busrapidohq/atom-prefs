@@ -22,14 +22,11 @@ Here at Busrapido.com we love hackable things! For this reasons we strongly enco
 * [line-count](https://atom.io/packages/line-count)
 * [open-terminal-here](https://atom.io/packages/open-terminal-here)
 * [project-manager](https://atom.io/packages/project-manager)
-* [pigments](https://atom.io/packages/pigments)
 * [minimap](https://github.com/atom-minimap/minimap)
   * [minimap-find-and-replace](https://github.com/atom-minimap/minimap-find-and-replace)
   * [minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected)
   * [minimap-cursorline](https://atom.io/packages/minimap-cursorline)
   * [minimap-git-diff](https://atom.io/packages/minimap-git-diff)
-  * [minimap-pigments](https://atom.io/packages/minimap-pigments)
-  * [minimap-linter](https://atom.io/packages/minimap-linter)
 * [tree-view-git-status](https://atom.io/packages/tree-view-git-status)
 
 ### Code Intelligence
