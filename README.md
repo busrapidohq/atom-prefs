@@ -33,8 +33,8 @@ Here at Busrapido.com we love hackable things! For this reasons we strongly enco
 * [tree-view-git-status](https://atom.io/packages/tree-view-git-status)
 
 ### Code Intelligence
-* [atom-ternjs](https://atom.io/packages/atom-ternjs)
-* [api-docs](https://atom.io/packages/api-docs)
+* [atom-ide-ui](https://atom.io/packages/atom-ide-ui)
+* [api-docs](https://atom.io/packages/ide-typescript)
 * [docblockr](https://atom.io/packages/docblockr)
 
 ### Code Consistency
@@ -43,16 +43,10 @@ Here at Busrapido.com we love hackable things! For this reasons we strongly enco
 * [linter](https://atom.io/packages/linter)
   * [linter-xo](https://atom.io/packages/linter-xo)
   * [linter-jsonlint](https://atom.io/packages/linter-jsonlint)
-  * [linter-htmlhint](https://atom.io/packages/linter-htmlhint)
-  * [linter-docker](https://atom.io/packages/linter-docker)
-  * [linter-sass-lint](https://atom.io/packages/linter-sass-lint)
 
 ### UI
 * [file-icons](https://atom.io/packages/file-icons)
 * [theme-switcher](https://atom.io/packages/theme-switcher)
-
-### Continuous Integration
-* [travis-ci-status](https://atom.io/packages/travis-ci-status)
 
 ### Utils
 * [auto-update-packages](https://atom.io/packages/auto-update-packages)
